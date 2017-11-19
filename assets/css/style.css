@@ -1,7 +1,7 @@
 #name {
     background-color: #63A8A4;
     color: #ffffff;
-    padding: 15px;
+    padding: 5px;
     margin-top: 20px;
 }
 
@@ -94,6 +94,7 @@ footer {
 
 body {
     margin: 0;
+    position: relative;
     background-color: #eeeeee;
     font-family: 'Open Sans Condensed', sans-serif;
 }
@@ -104,6 +105,7 @@ header {
 
 p {
     font-size: 20px;
+    margin-left: 10px;
 }
 
 form {
@@ -153,4 +155,7 @@ h3 {
     color: #ffffff;
     text-align: center;
     padding: 10px;
+    position: relative;
+    top: -125px;
+    margin-bottom: auto;
 }
