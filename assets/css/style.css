@@ -72,6 +72,8 @@ footer {
     background-color: #a6a6a6;
     height: 50px;
     clear: both;
+    position: relative;
+    top: 80px;
 }
 
 #anton-image {
